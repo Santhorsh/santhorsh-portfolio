@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Code2, Palette, Database, Cloud, CheckCircle, Download, Lock, ClipboardList, Smartphone, Briefcase, Star, Rocket, TrendingUp, Users, Award, Zap, Server, GitBranch, GraduationCap, Target, BookOpen, Coffee, Layers, Terminal, Cpu } from 'lucide-react';
-import profilePic from '../assets/santhorsh.png';
+import santhorsh from "../assets/santhorsh.png";
 
 const Home = () => {
   const projectImages = {
